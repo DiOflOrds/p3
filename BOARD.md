@@ -3,13 +3,7 @@
 Stand: 2026-08-15 · Tickets: 18
 
 
-## open (1)
-
-| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
-|---|---|---|---|---|---|---|
-| [T-0018](tickets/T-0018.md) | DR: G4 Sprint 2 + P3-Abnahme (Baseline p3-v1.0) | decision-request | pl | hoch | 2 | — |
-
-## done (17)
+## done (18)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -30,3 +24,4 @@ Stand: 2026-08-15 · Tickets: 18
 | [T-0015](tickets/T-0015.md) | SWE.3: Architekturbild — komponenten.yaml + arch_diagramm.py + Tab (SWR-045) | task | dev | hoch | 2 | — |
 | [T-0016](tickets/T-0016.md) | SWE.3: Projekt-Cockpit mit Frist-Ampel (SWR-046) | task | dev | hoch | 2 | — |
 | [T-0017](tickets/T-0017.md) | MAN.3: Sprint-2-Report (Schaetzung/Ist) + Schluss-Retro + Abnahmebilanz K1-K5 | task | pl | hoch | 2 | — |
+| [T-0018](tickets/T-0018.md) | DR: G4 Sprint 2 + P3-Abnahme (Baseline p3-v1.0) | decision-request | pl | hoch | 2 | — |
