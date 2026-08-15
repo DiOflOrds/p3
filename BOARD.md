@@ -1,9 +1,15 @@
 # Board (generiert von platform/scripts/board.py — nicht von Hand editieren)
 
-Stand: 2026-08-15 · Tickets: 6
+Stand: 2026-08-15 · Tickets: 12
 
 
-## done (6)
+## open (1)
+
+| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
+|---|---|---|---|---|---|---|
+| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 — Klickbarkeit abnehmen (Baseline p3-v0.1) | decision-request | pl | hoch | 1 | — |
+
+## done (11)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -13,3 +19,8 @@ Stand: 2026-08-15 · Tickets: 6
 | [T-0004](tickets/T-0004.md) | SWE.2: Architektur-Delta v1.2 + ADR-005 (Hash-Routing, SVG-Generator, neue Endpunkte) | task | arch | hoch | 0 | — |
 | [T-0005](tickets/T-0005.md) | DR: G1 — Anforderungs-Erweiterung Jira-like HMI (STK-015, SWR-040–047) freigeben | decision-request | pl | hoch | 0 | — |
 | [T-0006](tickets/T-0006.md) | DR: G2 — Architektur-Delta v1.2 (Hash-Routing + SVG-Generator) freigeben | decision-request | pl | hoch | 0 | — |
+| [T-0007](tickets/T-0007.md) | MAN.3: Sprint-1-Planning — Klickbarkeit | task | pl | hoch | 1 | — |
+| [T-0008](tickets/T-0008.md) | SWE.3: Hash-Router (ADR-005) + Ticket-Detail mit T-xxxx-Links (SWR-040) | task | dev | hoch | 1 | — |
+| [T-0009](tickets/T-0009.md) | SWE.3: Board Jira-like — Statusspalten, Filter, Karte oeffnet Detail (SWR-041) | task | dev | hoch | 1 | — |
+| [T-0010](tickets/T-0010.md) | SWE.3: Inbox interaktiv — Options-Buttons + DR-Historie (SWR-042) | task | dev | hoch | 1 | — |
+| [T-0011](tickets/T-0011.md) | SWE.3: /api/version + Neustart-Banner (SWR-047) | task | dev | hoch | 1 | — |
