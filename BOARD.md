@@ -1,9 +1,15 @@
 # Board (generiert von platform/scripts/board.py — nicht von Hand editieren)
 
-Stand: 2026-08-15 · Tickets: 12
+Stand: 2026-08-15 · Tickets: 18
 
 
-## done (12)
+## open (1)
+
+| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
+|---|---|---|---|---|---|---|
+| [T-0018](tickets/T-0018.md) | DR: G4 Sprint 2 + P3-Abnahme (Baseline p3-v1.0) | decision-request | pl | hoch | 2 | — |
+
+## done (17)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -19,3 +25,8 @@ Stand: 2026-08-15 · Tickets: 12
 | [T-0010](tickets/T-0010.md) | SWE.3: Inbox interaktiv — Options-Buttons + DR-Historie (SWR-042) | task | dev | hoch | 1 | — |
 | [T-0011](tickets/T-0011.md) | SWE.3: /api/version + Neustart-Banner (SWR-047) | task | dev | hoch | 1 | — |
 | [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 — Klickbarkeit abnehmen (Baseline p3-v0.1) | decision-request | pl | hoch | 1 | — |
+| [T-0013](tickets/T-0013.md) | MAN.3: Sprint-2-Planning — Tabellen, Bild, Cockpit + Abnahme | task | pl | hoch | 2 | — |
+| [T-0014](tickets/T-0014.md) | SWE.3: Requirements-/Traceability-Tabellen (SWR-043/044) | task | dev | hoch | 2 | — |
+| [T-0015](tickets/T-0015.md) | SWE.3: Architekturbild — komponenten.yaml + arch_diagramm.py + Tab (SWR-045) | task | dev | hoch | 2 | — |
+| [T-0016](tickets/T-0016.md) | SWE.3: Projekt-Cockpit mit Frist-Ampel (SWR-046) | task | dev | hoch | 2 | — |
+| [T-0017](tickets/T-0017.md) | MAN.3: Sprint-2-Report (Schaetzung/Ist) + Schluss-Retro + Abnahmebilanz K1-K5 | task | pl | hoch | 2 | — |
