@@ -3,13 +3,7 @@
 Stand: 2026-08-15 · Tickets: 12
 
 
-## open (1)
-
-| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
-|---|---|---|---|---|---|---|
-| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 — Klickbarkeit abnehmen (Baseline p3-v0.1) | decision-request | pl | hoch | 1 | — |
-
-## done (11)
+## done (12)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -24,3 +18,4 @@ Stand: 2026-08-15 · Tickets: 12
 | [T-0009](tickets/T-0009.md) | SWE.3: Board Jira-like — Statusspalten, Filter, Karte oeffnet Detail (SWR-041) | task | dev | hoch | 1 | — |
 | [T-0010](tickets/T-0010.md) | SWE.3: Inbox interaktiv — Options-Buttons + DR-Historie (SWR-042) | task | dev | hoch | 1 | — |
 | [T-0011](tickets/T-0011.md) | SWE.3: /api/version + Neustart-Banner (SWR-047) | task | dev | hoch | 1 | — |
+| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 — Klickbarkeit abnehmen (Baseline p3-v0.1) | decision-request | pl | hoch | 1 | — |
