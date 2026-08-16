@@ -37,4 +37,12 @@
 
 ## Traceability
 
-STK-015 ← SWR-040–047 (complete; no orphans). DoD checklist applied per SWR (2026-08-15 RM — feasibility ARCH/DEV context incl. ADR-002 no-build constraint, verifiability QM/TEST context). G1 pending (T-0005); architecture delta for routing and diagram source in G2 (T-0006).
+STK-015 ← SWR-040–047, SWR-075 (complete; no orphans). v1.1: +SWR-075 (Betriebs-CR aus pm/N-0013, B015). DoD checklist applied per SWR (2026-08-15 RM — feasibility ARCH/DEV context incl. ADR-002 no-build constraint, verifiability QM/TEST context). G1 pending (T-0005); architecture delta for routing and diagram source in G2 (T-0006).
+
+## Nachtrag v1.1 (Betriebs-CR aus pm/N-0013, PM-Beschluss B015)
+
+*Sofortteil des Briefes N-0013: alte erledigte Aufgaben verstopfen das Board. Der Rest des Briefes (Mehrfach-Labels, Typ setzen) hängt an der Ticket-Bearbeitung und liegt als Klasse-A-Entscheidung in der Inbox (pm/T-0011, P10). Keine neue Projekt-Baseline.*
+
+| ID | Requirement | Trace | Verification | Prio | Status |
+|---|---|---|---|---|---|
+| SWR-075 | The board view shall hide tickets in a final state (done, rejected) whose last change is more than one day old, so that only currently relevant work is visible; the hidden ones remain reachable through a clearly labelled toggle that names their number, and BOARD.md as the written archive keeps listing everything. Tickets without a change date count as recent and stay visible. | STK-015 | Unit tests (age boundary, missing date, final states only) + UI checklist | medium | reviewed |
